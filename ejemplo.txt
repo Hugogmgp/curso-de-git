@@ -1,2 +1,2 @@
-esto es una prueba
+Esto es una prueba
 he modificado el archivo
